@@ -28,8 +28,8 @@ Conectar dos redes virtuales (VNets) en Azure para que puedan comunicarse de for
 [<img src="images/03-connectivity-test.png" width="800">](images/03-connectivity-test.png)
 
 ## Checklist de verificación
-- [ ] El peering aparece en estado Connected
-- [ ] Las máquinas virtuales se comunican usando IP privada entre VNets
+- [x] El peering aparece en estado Connected
+- [x] Las máquinas virtuales se comunican usando IP privada entre VNets
 
 ## Qué le diría a un cliente o en entrevista
 “Con VNet Peering conecto redes de forma privada y con baja latencia, evitando sacar tráfico a Internet. Es útil para comunicar entornos, sedes o servicios internos sin necesidad de exponerlos públicamente.”
