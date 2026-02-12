@@ -22,7 +22,7 @@ Conectar dos redes virtuales (VNets) en Azure para que puedan comunicarse de for
 [<img src="images/01-peering-connected.png" width="800">](images/01-peering-connected.png)
 
 ### 02 - Diagrama / vista de topología
-[<img src="images/02-diagrama.png" width="800">](images/02-diagrama15.png)
+[<img src="images/02-diagrama15.png" width="800">](images/02-diagrama15.png)
 
 ### 03 - Prueba de conectividad por IP privada entre VNets
 [<img src="images/03-connectivity-test.png" width="800">](images/03-connectivity-test.png)
